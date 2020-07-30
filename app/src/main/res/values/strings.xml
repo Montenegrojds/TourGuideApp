@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_lugarest">Lugares Turisticos</string>
+    <string name="category_restaurantes">Restaurantes</string>
+    <string name="category_hoteles">Hoteles</string>
+    <string name="category_ciudades">Ciudades</string>
+    <string name="lugar_1">Catedral de  Arequipa</string>
+    <string name="lugar_2">Monasterio Santa Catalina</string>
+    <string name="lugar_3">Colca</string>
+    <string name="lugar_4">Volcan misti</string>
+
+    <string name="restaurante_1">Chicha</string>
+    <string name="restaurante_2">El ekeko</string>
+    <string name="restaurante_3">Los Guisos Arequipeños</string>
+    <string name="restaurante_4">El Gaucho</string>
+
+    <string name="restaurante_des1">Dirección: Santa Catalina 210, Arequipa Teléfono: (054) 287360 Horario:12:00–23:00</string>
+    <string name="restaurante_des2">Dirección: calle, Calle Mercaderes 141, Arequipa Horario:10:00–21:45 </string>
+    <string name="restaurante_des3">Dirección: Av. Dolores 111, José Luis Bustamante y Rivero 	Horario:11:00–18:00 Teléfono:(054) 426467 </string>
+    <string name="restaurante_des4">Dirección: Avenida Emmel 121, Yanahuara Horario:12:00–23:00 Teléfono:(054) 251212</string>
+
+    <string name="hotel_1">El corregidor</string>
+    <string name="hotel_2">Flying Dog Hostel</string>
+    <string name="hotel_3">Katari Hotel</string>
+
+    <string name="hotel_des1">Dirección: Calle San Pedro 139 – Cercado, Arequipa Teléfono: (054) 288081</string>
+    <string name="hotel_des2">Dirección: Calle Melgar 116 esq. Calle Riveros, Calle Melgar, Arequipa Teléfono: (054) 231163</string>
+    <string name="hotel_des3">Dirección: Portal de la Municipalidad 128, Arequipa Teléfono: (054) 213141</string>
+
+    <string name="cuzco">Cuzco</string>
+    <string name="callao">Callao</string>
+    <string name="trujillo">Trujillo</string>
+
+    <string name="cuzcodes">Una de las ciudades más importantes del Virreinato del Perú, en cuya época, y en manos de los españoles, se engalanó de iglesias, palacios y plazas barrocas y neoclásicas...</string>
+    <string name="callaodes">La mayor parte de su territorio se extiende en una amplia bahía protegida por las islas San Lorenzo, El Frontón, Cavinzas y el islote Redondo, al sur de la desembocadura del río Rímac, pero...</string>
+    <string name="trujillodes">Trujillo fue fundada con el nombre de «Trujillo de Nueva Castilla» y su fundación, oficializada por Francisco Pizarro el 5 de marzo de 1535 con la instalación de su primer cabildo...</string>
+
+
+    <string name="descripcionlugar_1">Es considerada uno de los primeros monumentos religiosos del siglo XVII en Arequipa. Fue construida con ignimbrita (piedra de origen volcánico)...</string>
+    <string name="descripcionlugar_2">El encanto de esta ciudadela reside en la solidez y plasticidad de sus volúmenes, y la belleza que maestros de obras y alarifes lograron en la arquitectura... </string>
+    <string name="descripcionlugar_3">La profundidad del Cañón Colca alcanzaba 4,160 m en el lado norte y 3.600 metros en el lado sur colocancodele así como el segundo Cañón más profundo del mundo...</string>
+    <string name="descripcionlugar_4">Está localizado a los pies del valle del río Chili, a 2.400 msnm. Se ha convertido en uno de los mayores símbolos de Arequipa...</string>
+
+
+
+
+
+
+
+
+
+
+</resources>
